@@ -5,6 +5,10 @@
 Clone the repository
 
     git clone https://github.com/ahmadsopyan29/technical-interview-bridgenote.git
+    
+ Switch to the repo folder
+
+    cd technical-interview-bridgenote
 
 Install all the dependencies using composer
 
