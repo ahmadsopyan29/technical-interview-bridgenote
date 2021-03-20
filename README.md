@@ -4,7 +4,7 @@
 
 Clone the repository
 
-    git clone https://github.com/ahmadsopyan29/technical-interview-brigdenote.git
+    git clone https://github.com/ahmadsopyan29/technical-interview-bridgenote.git
 
 Install all the dependencies using composer
 
